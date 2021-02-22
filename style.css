@@ -1,0 +1,24 @@
+
+body {
+    background: rgb(60, 141, 218);
+}
+
+h1 {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 60px;
+}
+
+.container {
+    background: #fff;
+    border-radius: 10px;
+}
+
+hr {
+    margin-left: 0;
+    width: 80px;
+    background: #000;
+}
+
+h6 {
+    font-family: 'Montserrat', sans-serif;
+}
